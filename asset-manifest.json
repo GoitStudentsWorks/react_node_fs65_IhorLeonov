@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs65_IhorLeonov/static/css/main.cd2e038f.css",
-    "main.js": "/react_node_fs65_IhorLeonov/static/js/main.4cef71a0.js",
+    "main.js": "/react_node_fs65_IhorLeonov/static/js/main.58debbbf.js",
     "static/js/959.475c3553.chunk.js": "/react_node_fs65_IhorLeonov/static/js/959.475c3553.chunk.js",
     "static/js/105.92c227d1.chunk.js": "/react_node_fs65_IhorLeonov/static/js/105.92c227d1.chunk.js",
     "static/css/119.428c3f7d.chunk.css": "/react_node_fs65_IhorLeonov/static/css/119.428c3f7d.chunk.css",
@@ -43,7 +43,7 @@
     "static/media/icon-trash-16x16.svg": "/react_node_fs65_IhorLeonov/static/media/icon-trash-16x16.ddb6ef7cef31efa43f62ef23e3953fb2.svg",
     "static/media/icon-user.svg": "/react_node_fs65_IhorLeonov/static/media/icon-user.83961854a6488a2675f2bcc32dd8ec5e.svg",
     "main.cd2e038f.css.map": "/react_node_fs65_IhorLeonov/static/css/main.cd2e038f.css.map",
-    "main.4cef71a0.js.map": "/react_node_fs65_IhorLeonov/static/js/main.4cef71a0.js.map",
+    "main.58debbbf.js.map": "/react_node_fs65_IhorLeonov/static/js/main.58debbbf.js.map",
     "959.475c3553.chunk.js.map": "/react_node_fs65_IhorLeonov/static/js/959.475c3553.chunk.js.map",
     "105.92c227d1.chunk.js.map": "/react_node_fs65_IhorLeonov/static/js/105.92c227d1.chunk.js.map",
     "119.428c3f7d.chunk.css.map": "/react_node_fs65_IhorLeonov/static/css/119.428c3f7d.chunk.css.map",
@@ -71,6 +71,6 @@
   },
   "entrypoints": [
     "static/css/main.cd2e038f.css",
-    "static/js/main.4cef71a0.js"
+    "static/js/main.58debbbf.js"
   ]
 }
