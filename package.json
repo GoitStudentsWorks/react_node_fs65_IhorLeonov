@@ -2,7 +2,7 @@
   "name": "goosetrack",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://IhorLeonov.github.io/project-Bra1n_Gain/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs65_IhorLeonov/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
